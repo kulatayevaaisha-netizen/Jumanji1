@@ -1,0 +1,11 @@
+:first{
+    float: left;
+    margin: 0px 20px 0px 20px;
+}
+h1{
+    text-align: center;
+}
+div{
+    margin: 0px 50px 50px 50px;
+    padding: 0px 30px 30px 30px;
+}
